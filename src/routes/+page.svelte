@@ -1,5 +1,5 @@
 <script>
-  import ExampleButton from '$lib/components/shared/ExampleButton.svelte';
+  import ExampleButton from '$lib/components/examples/ExampleButton.svelte';
 </script>
 
 <h1>Welcome to SvelteKit</h1>
