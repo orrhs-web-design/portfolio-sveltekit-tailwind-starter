@@ -105,8 +105,7 @@ import profilePic from '$lib/assets/profile-pic.png';
 Then you can use it in your HTML like this:
 
 ```html
-<img src='{profilePic}'
-		 alt='Profile picture'>
+<img src='{profilePic}' alt='Profile picture'>
 ```
 
 ## Adding CSS To A Page or Component
@@ -117,9 +116,9 @@ the `Button.svelte` file like this:
 
 ```html
 <style>
-	.button {
-		background-color: red;
-	}
+  .button {
+    background-color: red;
+  }
 </style>
 ```
 
